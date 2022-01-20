@@ -71,7 +71,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kantine-tisch-3"
+                 "value":"kantine-tisch-3a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kantine-tisch-2"
+                 "value":"kantine-tisch-2a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -147,7 +147,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kantine-tisch-1"
+                 "value":"kantine-tisch-1a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -185,7 +185,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-open-kitchen-3"
+                 "value":"db-open-kitchen-3a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -223,7 +223,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-open-kitchen-3"
+                 "value":"db-open-kitchen-3a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -261,7 +261,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-open-kitchen-2"
+                 "value":"db-open-kitchen-2a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -299,7 +299,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-open-kitchen-1"
+                 "value":"db-open-kitchen-1a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -337,7 +337,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-open-kitchen-theke"
+                 "value":"db-open-kitchen-thekeA"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -375,7 +375,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-chillzone-2"
+                 "value":"db-chillzone-2a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -413,7 +413,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"db-chillzone-1"
+                 "value":"db-chillzone-1a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -451,7 +451,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tisch-5"
+                 "value":"tisch-5a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -489,7 +489,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tisch-4"
+                 "value":"tisch-4a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -527,7 +527,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tisch-3"
+                 "value":"tisch-3a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -565,7 +565,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tisch-2"
+                 "value":"tisch-2a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -603,7 +603,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tisch-1"
+                 "value":"tisch-1a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -641,7 +641,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"buero-3"
+                 "value":"buero-3a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -679,7 +679,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"buero-2"
+                 "value":"buero-2a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -717,7 +717,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"buero-1"
+                 "value":"buero-1a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -755,7 +755,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"evs-1"
+                 "value":"evs-1a"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -793,7 +793,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"presentation"
+                 "value":"presentationA"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1244,7 +1244,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB WorkAdventure - DB Systel OpenSpace B\u00fcro Map"
+         "value":"TRS OpenSpace B\u00fcro Map"
         }, 
         {
          "name":"mapImage",
@@ -1254,7 +1254,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB Systel OpenSpace B\u00fcro"
+         "value":"TRS OpenSpace B\u00fcro"
         }, 
         {
          "name":"script",
