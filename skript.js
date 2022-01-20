@@ -1,11 +1,8 @@
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
 var urlTutorial = "https://db-planet.deutschebahn.com/pages/telefonie/apps/content/workadventure-erste-schritte";
-//var oldurlTutorial = "https://maps.vpit.dbmc.comp.db.de/DB-Buero/pilot/tutorial.html";
-//var oldurlFeedback = "https://maps.vpit.dbmc.comp.db.de/DB-Buero/pilot/feedback.html";
 //var urlFeedback = "mailto:DB.Systel.CommunicationServices.EVS@deutschebahn.com";
 var urlFeedback = "https://forms.office.com/Pages/ResponsePage.aspx?id=nC2noeZJbU-a9lqvoRg7_f26WHDvlOFNi_8Y43fECOdUMDVDTUpUUDRONkxHMzdLQ09WRlQxUUZSMS4u";
-
 var urlInfo = "https://db.de/workadventure";
 var urlInfoOrder = "https://dbserviceportal.service-now.com/serviceportal?id=sc_cat_item&category_sys_id=undefined&sys_id=0fa1b33e1b4bf010159842229b4bcb0e";
 
@@ -26,7 +23,7 @@ WA.room.onEnterZone(zoneTutorial, () => {
         {
             label: "OK",
             callback: (popup => {
-                WA.nav.openCoWebSite(urlTutorial);
+                WA.nav.openTab(urlTutorial);
                 isCoWebSiteOpened = true;
                 closePopUp();
             })
@@ -62,7 +59,6 @@ WA.room.onLeaveZone(zoneFeedback, () =>{
         isCoWebSiteOpened = false;
     }
 })
-
 
 WA.room.onEnterZone(zoneInfo, () => {
    currentPopup =  WA.ui.openPopup("popUpInfo","Willkommen im EVS-Teambüro! Sprich uns gerne direkt an und komm bei uns vorbei! \n Mehr zu Workadventure auf ...",[
